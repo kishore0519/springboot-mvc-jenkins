@@ -11,7 +11,7 @@ public class SimpleController {
 	
 	@GetMapping
 	public String sayHi() {
-		return "Hi !!";
+		return "Hi!!";
 	}
 
 }
