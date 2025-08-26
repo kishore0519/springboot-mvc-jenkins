@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springboot-web-mvc-jenkins
+
+server:
+  port: 8081
