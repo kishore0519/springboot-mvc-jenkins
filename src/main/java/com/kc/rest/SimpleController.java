@@ -11,6 +11,7 @@ public class SimpleController {
 	
 	@GetMapping
 	public String sayHi() {
+		System.out.println("An identifier for this endpoint");
 		return "Hi!!";
 	}
 
